@@ -12,4 +12,4 @@ spring:
       password: guest
   application:
     name: Clic
-age: 20
+age: 21
