@@ -7,4 +7,4 @@ eureka:
 spring:
   application:
     name: Clic
-age: 18
+age: 19
